@@ -1,0 +1,8 @@
+.fondo-mejora{
+  background-color: #e7e858;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
