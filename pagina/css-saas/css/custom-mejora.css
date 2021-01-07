@@ -6,3 +6,10 @@
   align-items: center;
   justify-content: space-between;
 }
+
+@media (max-width: 768px) {
+
+.ticket-azul{
+    margin: 0 auto;
+    float: none !important;
+}
